@@ -5,7 +5,7 @@ a thin wrapper for xAuth with Twitter API 1.1
 ## Installation
 
 ```ShellSession
-$ pip install twitterxauth
+$ pip install twitterxauth==0.0.3dev
 ```
 
 or
