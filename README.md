@@ -4,7 +4,13 @@ a thin wrapper for xAuth with Twitter API 1.1
 
 ## Installation
 
+```ShellSession
+$ pip install twitterxauth
 ```
+
+or
+
+```ShellSession
 $ pip install git+https://github.com/yuitest/twitterxauth.git
 ```
 
