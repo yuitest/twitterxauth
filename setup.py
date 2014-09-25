@@ -19,7 +19,8 @@ setup(
     include_package_data=True,
     zip_safe=False,
     install_requires=[
-        # -*- Extra requirements: -*-
+        'httplib2>=0.9',
+        'oauth2>=1.5',
     ],
     entry_points="""
     # -*- Entry points: -*-
