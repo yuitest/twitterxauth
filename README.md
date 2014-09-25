@@ -2,9 +2,15 @@
 
 a thin wrapper for xAuth with Twitter API 1.1
 
-## usage
+## Installation
 
 ```
+$ pip install git+https://github.com/yuitest/twitterxauth.git
+```
+
+## Usage
+
+```python
 import twitterxauth
 access_token, access_token_secret = twitterxauth.get_oauth_tokens(
     'YourXAuthConsumerKey',
